@@ -1,0 +1,5 @@
+[submodule "SimplexCommon"]
+	url = git@github.com:idlecore/SimplexCommon.git
+[submodule "lib/SimplexCommon/lib/SimplexCommon"]
+	path = lib/SimplexCommon/lib/SimplexCommon
+	url = git@github.com:idlecore/SimplexCommon.git
